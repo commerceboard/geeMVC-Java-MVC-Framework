@@ -11,7 +11,7 @@
     <description>Main class for starting an embedded tomcat.</description>
 
 	<properties>
-		<tomcat.version>9.0.30</tomcat.version>
+		<tomcat.version>9.0.41</tomcat.version>
 	</properties>
   
 	<parent>
